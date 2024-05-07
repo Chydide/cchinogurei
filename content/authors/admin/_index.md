@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chido Chinogurei
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Chido Chinogurei
