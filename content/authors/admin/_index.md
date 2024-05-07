@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 
+title: Chido Chinogurei
 
 # Name pronunciation (optional)
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Chido
-last_name: Chinogurei
+first_name: 
+last_name: 
 
 # Status emoji
 status:
