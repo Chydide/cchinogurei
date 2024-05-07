@@ -1,12 +1,16 @@
 ---
-title: 'An example conference paper'
+title: 'Socio-behavioural barriers to viral suppression in the older adult population in rural South Africa'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Jen Manne-Goehler
+  - Kathleen Kahn
+  - Chodziwadziwa Kabudula
+  - Morna Cornell
+  - Julia Katherine Rohr
 
 # Author notes (optional)
 author_notes:
@@ -17,7 +21,7 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-04-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,10 +32,10 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: South Africa has the largest share of people living with HIV in the world and this population is ageing. The social context in which people seek HIV care is often ignored. Apart from clinical interventions, socio-behavioural factors impact successful HIV care outcomes for older adults living with HIV. We use cross-sectional data linked with demographic household surveillance data, consisting of HIV positive adults aged above 40, to identify socio-behavioural predictors of a detectable viral load. Older adults were more likely to have a detectable viral load if they did not disclose their HIV positive status to close family members (aOR 2.56, 95% CI 1.89-3.46), resided in the poorest households (aOR 1.98, 95% CI 1.23-3.18), or were not taking medications other than ART (aOR 1.83, 95% CI 1.02-1.99) likely to have a detectable. Clinical interventions in HIV care must be supported by understanding the socio-behavioural barriers that occur outside the health facility. The importance of community health care workers in bridging this gap may offer more optimum outcomes for older adults ageing with HIV.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Elderly individuals who opt not to disclose their HIV status to close family members are at a higher risk of remaining unsuppressed. Similarly, individuals living with HIV in larger households and experiencing low socio-economic status encounter challenges in achieving viral suppression compared to other demographic groups.
 
 tags: []
 
