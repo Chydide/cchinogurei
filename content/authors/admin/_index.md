@@ -1,61 +1,66 @@
 ---
 # Display name
-title: 吳健雄
+title: Chido Chinogurei
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chido Chinogurei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chido
+last_name: Chinogurei
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏃🏽
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IeDEA SA
+    url: https://www.iedea-sa.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am enthusiastic about solving challenges involved with data pipelines from different systems with a keen focus on routine data maintenance for various public health systems and longitudinal methods in data analysis of public health issues.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Public Health
+  - Longitudinal Data
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Public Health
+      institution: University of Cape Town
+      year: ongoing
+    - course: MPhil in Demography 
+      institution: Centre for Actuarial Research, University of Cape Town
+      year: 2017
+    - course: BSc (Honours) in Statistics
+      institution: University of Zimbabwe
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
-        icon: python
+        icon: rstudio
         icon_pack: fab
+      - name: Stata
+        description: ''
+        percent: 80
+        icon: stata
+        icon_pack: fab      
       - name: Data Science
         description: ''
         percent: 100
@@ -75,15 +80,15 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Chess
         description: ''
         percent: 100
-        icon: cat
+        icon: chess
         icon_pack: fas
-      - name: Photography
+      - name: Running
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: person-running
         icon_pack: fas
 
 # Social/Academic Networking
@@ -96,19 +101,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Chydide
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=7MML4wwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Chydide
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/chido-chinogurei-96635128/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chido Chinogurei is a data scientist at IeDEA SA. His research interests include longitudinal data methods and mortality.
 {style="text-align: justify;"}
