@@ -125,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-Chido Chinogurei is a data scientist at IeDEA SA. His research interests include longitudinal data methods and mortality.
+Chido Chinogurei, a proficient data scientist, delves into the intricate realms of longitudinal data methods and mortality within his research pursuits, aiming to unearth profound insights and contribute meaningfully to the advancement of knowledge in these domains.
 {style="text-align: justify;"}
