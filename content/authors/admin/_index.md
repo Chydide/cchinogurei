@@ -6,7 +6,7 @@ title: Chido Chinogurei
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: 
+first_name: Chido
 last_name: Chinogurei
 
 # Status emoji
