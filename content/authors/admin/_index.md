@@ -3,7 +3,7 @@
 title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Chido Chinogurei
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Chido
