@@ -72,9 +72,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Data management and analysis
+              * Collaboration with experts
+              * Data engineering
         - title: Data Scientist
           company: MRC/WITS Agincourt 
           company_url: ''
@@ -82,7 +82,13 @@ sections:
           location: South Africa
           date_start: '2018-12-01'
           date_end: '2021-04-30'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+
+              * Data management
+              * Data analysis and interpretation
+              * Predictive modelling
+              * Continous improvement of processes
         - title: Data Analyst
           company: SALDRU
           company_url: ''
