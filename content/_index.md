@@ -61,46 +61,46 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Senior Data Scientist
-          company: IeDEA SA
-          company_url: ''
-          company_logo: org-gc
-          location: South Africa
-          date_start: '2021-05-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+     items:
+    - company: IeDEA SA
+      company_logo: org-gc
+      company_url: "https://www.iedea-sa.org/"
+      date_end: ""
+      date_start: "2021-05-01"
+      description: |2-
+          Responsibilities include:
 
-              * Data management and analysis
-              * Collaboration with experts
-              * Data engineering
-        - title: Data Scientist
-          company: MRC/WITS Agincourt 
-          company_url: 'https://www.agincourt.co.za/'
-          company_logo: org-x
-          location: South Africa
-          date_start: '2018-12-01'
-          date_end: '2021-04-30'
-          description: |2-
-              Responsibilities include:
+          * Develop data pipeline solutions to enable automated approaches to aggregating data from several health facilities within the region
+          * Developing and maintaining operational dashboard
+          * Data management of regional data
+      location: Cape Town, South Africa
+      title: Senior Data Scientist
+    - company: Agincourt Rural Public Health & Health Transitions Research Unit
+      company_logo: org-x
+      company_url: "https://www.agincourt.co.za/"
+      date_end: "2021-04-30"
+      date_start: "2018-12-01"
+      description: |2-
+          Responsibilities include:
 
           * Develop operational dashboards for monitoring real-time data using R Shiny.
           * Data warehousing in SQL Server
           * Manage ETL pipelines for various projects
-        - title: Data Analyst
-          company: SALDRU
-          company_url: 'https://www.saldru.uct.ac.za/'
-          company_logo: nids
-          location: South Africa
-          date_start: '2016-07-01'
-          date_end: '2018-11-30'
+      location: Mpumalanga, South Africa
+      title: Data Scientist
+    - company: Southern Africa Labour and Development Research Unit
+      company_logo: nids
+      company_url: "https://www.saldru.uct.ac.za/"
+      date_end: "2021-11-30"
+      date_start: "2016-08-01"
       description: |2-
           Responsibilities include:
 
           * Maintaining data quality assurance
           * Identifying and resolving inconsistencies in data.
           * Validate archived information with physical paper forms
+      location: Cape Town, South Africa
+      title: Data Analyst
     design:
       columns: '2'
   - block: accomplishments
