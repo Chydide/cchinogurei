@@ -64,7 +64,7 @@ sections:
       items:
         - title: Senior Data Scientist
           company: IeDEA SA
-          company_url: ''
+          company_url: 'https://www.iedea-sa.org/'
           company_logo: org-gc
           location: South Africa
           date_start: '2021-05-01'
@@ -72,12 +72,12 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Data management and analysis
-              * Collaboration with experts
-              * Data engineering
+          * Develop data pipeline solutions to enable automated approaches to aggregating data from several health facilities within the region
+          * Developing and maintaining operational dashboard
+          * Data management of regional data
         - title: Data Scientist
           company: MRC/WITS Agincourt 
-          company_url: ''
+          company_url: 'https://www.agincourt.co.za/'
           company_logo: org-x
           location: South Africa
           date_start: '2018-12-01'
@@ -85,18 +85,22 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Data management
-              * Data analysis and interpretation
-              * Predictive modelling
-              * Continous improvement of processes
+          * Develop operational dashboards for monitoring real-time data using R Shiny.
+          * Data warehousing in SQL Server
+          * Manage ETL pipelines for various projects
         - title: Data Analyst
           company: SALDRU
-          company_url: ''
+          company_url: 'https://www.saldru.uct.ac.za/'
           company_logo: nids
           location: South Africa
           date_start: '2016-07-01'
           date_end: '2018-11-30'
-          description: Taught electronic engineering and researched semiconductor physics.
+      description: |2-
+          Responsibilities include:
+
+          * Maintaining data quality assurance
+          * Identifying and resolving inconsistencies in data.
+          * Validate archived information with physical paper forms
     design:
       columns: '2'
   - block: accomplishments
@@ -113,22 +117,22 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+          date_end: '2021-08-30'
+          date_start: '2021-07-25'
+          description: 'The certificate program consists of six courses that cover various aspects of data analysis, including data visualization, data cleaning, data analysis with SQL, and data storytelling.'
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Google Data Analytics
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: 
           icon: edx
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Azure Data Studio  Essential Training
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -137,7 +141,16 @@ sections:
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Unsupervised Learning in R'
+          url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Visualization Best Practices in R'
           url: ''
     design:
       columns: '2'
