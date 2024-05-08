@@ -62,6 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior Data Scientist
+          company: IeDEA SA
+          company_url: ''
+          company_logo: org-gc
+          location: South Africa
+          date_start: '2021-05-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Data management and analysis
+              * Collaboration with experts
+              * Data engineering
         - title: Data Scientist
           company: MRC/WITS Agincourt 
           company_url: 'https://www.agincourt.co.za/'
