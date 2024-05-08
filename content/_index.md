@@ -69,12 +69,6 @@ sections:
           location: South Africa
           date_start: '2021-05-01'
           date_end: ''
-          description: |2-
-          Responsibilities include:
-
-          * Develop data pipeline solutions to enable automated approaches to aggregating data from several health facilities within the region
-          * Developing and maintaining operational dashboard
-          * Data management of regional data
         - title: Data Scientist
           company: MRC/WITS Agincourt 
           company_url: 'https://www.agincourt.co.za/'
