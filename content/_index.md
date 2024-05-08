@@ -139,6 +139,9 @@ sections:
           date_start: '2016-07-01'
           date_end: '2018-11-30'
           description: Taught electronic engineering and researched semiconductor physics.
+<<<<<<< HEAD
+>>>>>>> parent of 6a95463 (Update _index.md)
+=======
 >>>>>>> parent of 6a95463 (Update _index.md)
     design:
       columns: '2'
