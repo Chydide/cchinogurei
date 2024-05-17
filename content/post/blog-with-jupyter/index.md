@@ -4,11 +4,6 @@ date: "2024-05-17"
 summary: Advantages of Federated learning in Health care!
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.eetimes.com/wp-content/uploads/Federated-Learning-CMU.png')
-```
-
 ![png](output_1_0.png)
 
 Federated learning is a revolutionary approach that has the potential to significantly impact the healthcare industry. This essay aims to explore the advantages of federated learning in healthcare and its implications for patient care, data privacy, and medical research.
