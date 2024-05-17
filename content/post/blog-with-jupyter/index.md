@@ -1,7 +1,7 @@
 ---
 title: The Impact of Federated learning in Healthcare!
 date: "2024-05-17"
-summary: Advantages of Federated learning in Health care!
+summary: Understand the advantages of Federated learning, a growing area in Machine learning and its application in Health care sector. How can we leverage in understanding in this area!
 ---
 
 ![png](output_1_0.png)
