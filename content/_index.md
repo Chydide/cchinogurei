@@ -245,9 +245,7 @@ sections:
       text: |-
         Feel free to contact me.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: cmgchinogurei@gmail.com
       address:
         street: 7 Percy Road
         city: Cape Town
