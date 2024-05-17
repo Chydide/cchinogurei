@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Data Scientist
+          company: IeDEA
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: South Africa
+          date_start: '2021-05-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,14 +75,22 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Data Scientist
+          company: MRC/Wits Rural Public Health and Health Transitions Unit (Agincourt)
+          company_url: 'https://www.wits.ac.za/agincourt/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: South Africa
+          date_start: '2018-12-01'
+          date_end: '2021-04-30'
+          description: Implementing data pipelines and models on the surveillance data
+        - title: Data Analyst
+          company: Southern African Labour Development Research Unit (SALDRU)
+          company_url: ''
+          company_logo: nids
+          location: South Africa
+          date_start: '2016-07-01'
+          date_end: '2018-11-30'
+          description: Data cleaning and analysis of panel data.
     design:
       columns: '2'
   - block: accomplishments
