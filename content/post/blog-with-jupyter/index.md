@@ -1,18 +1,15 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: The Impact of Federated learning in Healthcare!
+date: "2024-05-17"
+summary: Advantages of Federated learning in Health care!
 ---
-
 
 ```python
 from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 ```
 
-    
 ![png](output_1_0.png)
-    
 
 ```python
 print("Welcome to Academic!")
