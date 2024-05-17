@@ -2,12 +2,10 @@
 title: "Advantages of using Federated learning in healthcare"
 author: "Chido Chinogurei"
 date: "2024-05-17"
-output: html_document
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 Federated learning is a revolutionary approach that has the potential to significantly impact the healthcare industry. This essay aims to explore the advantages of federated learning in healthcare and its implications for patient care, data privacy, and medical research.
 
