@@ -113,7 +113,7 @@ sections:
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Google Data Analytics
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -131,7 +131,7 @@ sections:
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Data Vizualisation in R'
           url: ''
     design:
       columns: '2'
