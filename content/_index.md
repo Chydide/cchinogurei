@@ -61,9 +61,9 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-<<<<<<< HEAD
      items:
-    - company: IeDEA SA
+    - title: Senior Data Scientist
+      company: IeDEA SA
       company_logo: org-gc
       company_url: "https://www.iedea-sa.org/"
       date_end: ""
@@ -75,8 +75,8 @@ sections:
           * Developing and maintaining operational dashboard
           * Data management of regional data
       location: Cape Town, South Africa
-      title: Senior Data Scientist
-    - company: Agincourt Rural Public Health & Health Transitions Research Unit
+    - title: Data Scientist
+      company: Agincourt Rural Public Health & Health Transitions Research Unit
       company_logo: org-x
       company_url: "https://www.agincourt.co.za/"
       date_end: "2021-04-30"
@@ -88,8 +88,8 @@ sections:
           * Data warehousing in SQL Server
           * Manage ETL pipelines for various projects
       location: Mpumalanga, South Africa
-      title: Data Scientist
-    - company: Southern Africa Labour and Development Research Unit
+    - title: Data Analyst
+      company: Southern Africa Labour and Development Research Unit
       company_logo: nids
       company_url: "https://www.saldru.uct.ac.za/"
       date_end: "2021-11-30"
@@ -101,51 +101,6 @@ sections:
           * Identifying and resolving inconsistencies in data.
           * Validate archived information with physical paper forms
       location: Cape Town, South Africa
-      title: Data Analyst
-=======
-      items:
-        - title: Senior Data Scientist
-          company: IeDEA SA
-          company_url: ''
-          company_logo: org-gc
-          location: South Africa
-          date_start: '2021-05-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Data management and analysis
-              * Collaboration with experts
-              * Data engineering
-        - title: Data Scientist
-          company: MRC/WITS Agincourt 
-          company_url: ''
-          company_logo: org-x
-          location: South Africa
-          date_start: '2018-12-01'
-          date_end: '2021-04-30'
-          description: |2-
-              Responsibilities include:
-
-              * Data management
-              * Data analysis and interpretation
-              * Predictive modelling
-              * Continous improvement of processes
-        - title: Data Analyst
-          company: SALDRU
-          company_url: ''
-          company_logo: nids
-          location: South Africa
-          date_start: '2016-07-01'
-          date_end: '2018-11-30'
-          description: Taught electronic engineering and researched semiconductor physics.
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 6a95463 (Update _index.md)
-=======
->>>>>>> parent of 6a95463 (Update _index.md)
-=======
->>>>>>> parent of 6a95463 (Update _index.md)
     design:
       columns: '2'
   - block: accomplishments
