@@ -6,7 +6,7 @@ summary: Advantages of Federated learning in Health care!
 
 ```python
 from IPython.core.display import Image
-Image('https://dkk4qeqny48s0.cloudfront.net/wp-content/uploads/2022/01/Fedrated-machine-learning_02.jpg')
+Image('https://www.eetimes.com/wp-content/uploads/Federated-Learning-CMU.png')
 ```
 
 ![png](output_1_0.png)
