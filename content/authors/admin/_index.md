@@ -58,17 +58,17 @@ skills:
         icon_pack: fab
       - name: Stata
         description: ''
-        percent: 80
+        percent: 75
         icon: stata
         icon_pack: fab      
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 90
         icon: database
         icon_pack: fas
   - name: Hobbies
