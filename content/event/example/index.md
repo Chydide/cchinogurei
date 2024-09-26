@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: HIV and TB EPIDEMIOLOGY & BIOSTATISTICS WORKSHOP
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: HIV and TB EPIDEMIOLOGY & BIOSTATISTICS WORKSHOP
+event_url: [https://example.org](https://health.uct.ac.za/hattp/articles/2024-01-18-2023-hiv-and-tb-epidemiology-biostatistics-line-workshop-focussed-clinical-study-design-conduct-and)
 
-location: Hugo Blox Builder HQ
+location: School of Public Health
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: School of Public Health
+  city: Cape Town
+  region: WC
+  postcode: '7800'
+  country: South Africa
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A training workshop focussed on study design, conduct and analysis for clinical and epidemiological studies of HIV and TB
+abstract: 'Training focus was on implementing CRFS in routine studies on REdCAp and addressing the need to develop systems to help manage data and monitor realtime data during data collection looking out for key metrics before the onset of data analysis and paper write-up'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
