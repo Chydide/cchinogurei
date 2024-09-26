@@ -2,7 +2,7 @@
 title: HIV and TB EPIDEMIOLOGY & BIOSTATISTICS WORKSHOP
 
 event: HIV and TB EPIDEMIOLOGY & BIOSTATISTICS WORKSHOP
-event_url: [https://example.org](https://health.uct.ac.za/hattp/articles/2024-01-18-2023-hiv-and-tb-epidemiology-biostatistics-line-workshop-focussed-clinical-study-design-conduct-and)
+event_url: [https://health.uct.ac.za/hattp/articles/2024-01-18-2023-hiv-and-tb-epidemiology-biostatistics-line-workshop-focussed-clinical-study-design-conduct-and]
 
 location: School of Public Health
 address:
