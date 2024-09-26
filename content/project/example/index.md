@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Variation in property prices within Cape Town
+summary: Get your buck working for you when it comes to choosing property, and bargain using evidence data
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Data Analysis
+date: '2024-08-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
