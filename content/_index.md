@@ -75,6 +75,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+              * Data Management
         - title: Data Scientist
           company: MRC/Wits Rural Public Health and Health Transitions Unit (Agincourt)
           company_url: 'https://www.wits.ac.za/agincourt/'
