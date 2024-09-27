@@ -83,7 +83,10 @@ sections:
           location: South Africa
           date_start: '2018-12-01'
           date_end: '2021-04-30'
-          description: Implementing data pipelines and models on the surveillance data
+          description: |2-
+              Responsibilities include:
+    
+              - Implementing data pipelines and models on the surveillance data
         - title: Data Analyst
           company: Southern African Labour Development Research Unit (SALDRU)
           company_url: ''
