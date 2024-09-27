@@ -72,10 +72,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-              * Data Management
+              * Harmonizing longitudinal data from multiple health systems 
+              * Implementing ETL pipelines for migrating data
+              * Deploying algorithms and design of operational dashboard to clean and monitor any changes introduced in the data
+              * Provide input on the various working groups on the multi-regional collaboration on strategic data and data harmonization 
         - title: Data Scientist
           company: MRC/Wits Rural Public Health and Health Transitions Unit (Agincourt)
           company_url: 'https://www.wits.ac.za/agincourt/'
