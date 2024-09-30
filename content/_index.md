@@ -89,7 +89,7 @@ sections:
               - Implementing data pipelines to move surveillence longitudinal data from staging to archiving
               - Implement and manage record linkage procedure to identify returning migrants within the longitudinal surveillance site
               - Build operational and strategic dashboards using R Shiny
-              - Training and supervision of data managers
+              - Training and supervision of data managers.
         - title: Data Analyst
           company: Southern African Labour Development Research Unit (SALDRU)
           company_url: ''
